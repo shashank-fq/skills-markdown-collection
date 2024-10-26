@@ -39,3 +39,13 @@
 - [Visual Algo](https://visualgo.net/en)
 
   **Reason for Learning**:To enhance problem solving abilities.
+
+  # Tarun
+
+**Skill**: Django
+
+**Resources**:
+- [Coursera](https://www.coursera.org/specializations/django)
+- [geeksforgeeks](https://www.geeksforgeeks.org/best-django-courses/)
+
+**Reason for Learning**: I want to become proficient in frontend development.
