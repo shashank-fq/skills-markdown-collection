@@ -1,5 +1,5 @@
 
-**Skill**: JavaScript #1
+**Skill**: JavaScript '#1'
 
 **Resources**:
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
