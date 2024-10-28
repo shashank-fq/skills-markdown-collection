@@ -7,3 +7,13 @@
 - [JavaScript.info](https://javascript.info/)
 
 **Reason for Learning**: I want to become proficient in frontend development.
+
+#N Madhvesh
+
+**skill**: C++
+
+**Resources**
+-[Basic Intorduction](https://www.geeksforgeeks.org/introduction-to-c-programming-language/)
+-[C++.info](https://www.w3schools.com/cpp/)
+
+**Reason for learning**: I want to become game developer.
