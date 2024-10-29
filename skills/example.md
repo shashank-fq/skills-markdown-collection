@@ -39,3 +39,13 @@
 - [Visual Algo](https://visualgo.net/en)
 
   **Reason for Learning**:To enhance problem solving abilities.
+  
+# Malhar Manoj Bihari 
+
+**Skill**: C
+
+**Resources**:
+- [geeks for geeks](https://www.geeksforgeeks.org/c-programming-language/)
+- [solo learn](https://www.sololearn.com/en/learn/courses/c-introduction)
+
+**Reason for Learning**: strengthening fundamentals in DSA
