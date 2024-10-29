@@ -39,3 +39,24 @@
 - [Visual Algo](https://visualgo.net/en)
 
   **Reason for Learning**:To enhance problem solving abilities.
+  # Sri Raksha M
+
+**Skill**: java
+
+**Resources**:
+- [MDN Web Docs]([https://developer.mozilla.org/en-US/docs/Glossary/Python])
+- [Java COURSERA]([https://www.python.org/psf-landing/])
+- [geeks for geeks]([https://www.coursera.org/learn/programming-with-javascript])
+  
+**Reason for Learning**: I want to become proficient in backend development.
+
+  
+# Malhar Manoj Bihari 
+
+**Skill**: C
+
+**Resources**:
+- [geeks for geeks](https://www.geeksforgeeks.org/c-programming-language/)
+- [solo learn](https://www.sololearn.com/en/learn/courses/c-introduction)
+
+**Reason for Learning**: strengthening fundamentals in DSA
