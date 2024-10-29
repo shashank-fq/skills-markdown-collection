@@ -19,3 +19,13 @@
 **Skill**: C++
 
 **Reasons for learning**: TO gain the knowledge and pasia he paisa hoga ye soch ke haha.
+
+# Vishwas Naveen
+
+**Skill**: HTML, CSS, UI/UX
+
+**Reasons for learning**: Whatever coding and developement has been implemented in the backend, its no use if the interface is not good.
+
+**Resources:**
+- [GeeksforGeeks](https://www.geeksforgeeks.org/html-tutorial/)
+- [Coursera](https://www.coursera.org/collections/learn-css/)
