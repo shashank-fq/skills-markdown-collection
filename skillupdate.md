@@ -8,6 +8,7 @@
 
 **Reason for Learning**: I want to become proficient in frontend development.
 
+
 #N Madhvesh
 
 **skill**: C++
@@ -17,3 +18,13 @@
 -[C++.info](https://www.w3schools.com/cpp/)
 
 **Reason for learning**: I want to become game developer.
+=======
+# shruthi
+
+**Skill**: CSS
+
+**Resources**:
+- https://www.w3schools.com/css/
+
+**Reason for Learning**: I want to become proficient in frontend development.
+
