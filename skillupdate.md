@@ -7,3 +7,13 @@
 - [JavaScript.info](https://javascript.info/)
 
 **Reason for Learning**: I want to become proficient in frontend development.
+
+# shruthi
+
+**Skill**: CSS
+
+**Resources**:
+- https://www.w3schools.com/css/
+
+**Reason for Learning**: I want to become proficient in frontend development.
+
