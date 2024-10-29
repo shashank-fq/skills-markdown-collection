@@ -40,6 +40,7 @@
 
   **Reason for Learning**:To enhance problem solving abilities.
 
+
   # Vignesh B S
 
 **Skill Set**:
@@ -78,3 +79,34 @@ I am passionate about shaping my future in computer science through four pillars
 **Community Engagement**: Connect with tech communities, participate in coding forums, and seek mentorship to accelerate learning and networking.  
 **Portfolio Updates**: Regularly update my portfolio and GitHub repositories with new projects, refined code, and documentations.
 
+  # Tarun
+
+**Skill**: Django
+
+**Resources**:
+- [Coursera](https://www.coursera.org/specializations/django)
+- [geeksforgeeks](https://www.geeksforgeeks.org/best-django-courses/)
+
+**Reason for Learning**: I want to become proficient in frontend development.
+
+# Sri Raksha M
+
+**Skill**: java
+
+**Resources**:
+- [MDN Web Docs]([https://developer.mozilla.org/en-US/docs/Glossary/Python])
+- [Java COURSERA]([https://www.python.org/psf-landing/])
+- [geeks for geeks]([https://www.coursera.org/learn/programming-with-javascript])
+  
+**Reason for Learning**: I want to become proficient in backend development.
+
+  
+# Malhar Manoj Bihari 
+
+**Skill**: C
+
+**Resources**:
+- [geeks for geeks](https://www.geeksforgeeks.org/c-programming-language/)
+- [solo learn](https://www.sololearn.com/en/learn/courses/c-introduction)
+
+**Reason for Learning**: strengthening fundamentals in DSA
