@@ -110,3 +110,15 @@ I am passionate about shaping my future in computer science through four pillars
 - [solo learn](https://www.sololearn.com/en/learn/courses/c-introduction)
 
 **Reason for Learning**: strengthening fundamentals in DSA
+
+
+# Rohit Raj
+
+**Skill**: HTML ,CSS ,C ,Python
+
+**Resources**:
+- [CS50](https://pll.harvard.edu/course/cs50s-introduction-programming-scratch)
+- [PYTHON](https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&si=WIrAsxW-FyC5xJhI)
+- [HTML CSS FRONTEND DEV](https://youtube.com/playlist?list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E&si=WnFLDkHk4Ca11AES)
+
+**Reason for Learning**: want to be a software engineer in faang ,interested in frontend developememt and competitive programming.
