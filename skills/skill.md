@@ -33,4 +33,15 @@
 # Poorvika                                                                                                                                                              
 **Skill**:java                                                                                                                                                               
 **Reason for Learning**: Java is a solid precursor to other programming languages.
+- # Harsh Kumar
+
+**Skill**: C++
+
+**Reasons for learning**: TO gain the knowledge and pasia he paisa hoga ye soch ke haha.
+
+# Disha V Reddy
+
+**Skill**: java 
+
+**Reasons for learning**: core programming language ; flexible and versatile 
 
