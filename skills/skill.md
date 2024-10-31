@@ -45,3 +45,13 @@
 
 **Reasons for learning**: core programming language ; flexible and versatile 
 
+# Swathi J
+
+**Skill**: Python
+
+**Resources**:
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/python)
+- [python.info](https://python.info/)
+
+**Reason for Learning**: I want to become Full Stack developer.
+
