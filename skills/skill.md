@@ -29,3 +29,17 @@
 **Resources:**
 - [GeeksforGeeks](https://www.geeksforgeeks.org/html-tutorial/)
 - [Coursera](https://www.coursera.org/collections/learn-css/)
+
+- # Harsh Kumar
+
+**Skill**: C++
+
+**Reasons for learning**: TO gain the knowledge and pasia he paisa hoga ye soch ke haha.
+
+# Disha V Reddy
+
+**Skill**: java 
+
+**Reasons for learning**: core programming language ; flexible and versatile 
+
+
