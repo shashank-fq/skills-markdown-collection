@@ -30,6 +30,9 @@
 - [GeeksforGeeks](https://www.geeksforgeeks.org/html-tutorial/)
 - [Coursera](https://www.coursera.org/collections/learn-css/)
 
+# Poorvika                                                                                                                                                              
+**Skill**:java                                                                                                                                                               
+**Reason for Learning**: Java is a solid precursor to other programming languages.
 - # Harsh Kumar
 
 **Skill**: C++
@@ -41,5 +44,4 @@
 **Skill**: java 
 
 **Reasons for learning**: core programming language ; flexible and versatile 
-
 
